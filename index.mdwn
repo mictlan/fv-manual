@@ -4,8 +4,6 @@ Bienvenidx al manual de uso del Live CD flujos-vivos. Este manual ha sido desarr
 
 [[guiarapida]]
 
-
-
 #1 Flujos 
 
 [[flujos]]
