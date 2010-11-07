@@ -8,3 +8,4 @@
    
  ¿Pero por donde sale la transmisión? Sale en la red local donde está conectada tu computadora por un servidor local (localhost). Cada computadora conectada en la red local (por cable o conexión inalámbrica) puede [[#como_recibir_la_transmisión_de_icecast2_con_las_otras_computadoras_en_la_red_local|sintonizar tu transmisión]]. Si quieres transmitir en Internet te recomendamos [[#donde_obtener_una_url|abrir un canal de streaming en el servidor de audio libre Giss.tv]]. Si ya tienes uno, pues sólo cambia los valores 1-4 de los elementos básicos de streaming en Flujconf y listo. Eso fue el atajo. En seguida vas a conocer con más detalle el demonio [[#darkice|Darkice]] y su uso combinado con el [[#music_player_daemon|Music Player Daemon]] y [[#icecast2|Icecast2]]. Que no se te olvide que siempre puedes utilizar Flujconf para reducir la configuración de Darkice a unos simples clicks. Y ahora haz radio!
 
+1.2.3
